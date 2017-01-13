@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=macro
+IAge=3
+Name=Macro
+Description=Records and executes a macro.
+Authors=Djonathan Goulart <d.goulart@outlook.com.br>
+Copyright=GPL
+Website=N/A
+Version=1.0.0
